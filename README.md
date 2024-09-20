@@ -13,3 +13,8 @@ See tutorial here - https://www.softwareyoga.com/docker-tomact-tutorial/
 
 # Links
 [Sample Tomcat web app](https://tomcat.apache.org/tomcat-8.0-doc/appdev/sample/)
+
+# Ejercicios
+1. Cambiar el contenido del index.html
+2. Cambiar el contenido del hello.jsp
+3. (Investigación) Cambiar el contenido del hello.jsp para que obtenga un parámetro pasado por la url e imprima dicho parámetro en la web
